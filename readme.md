@@ -119,13 +119,3 @@ Edit
 }
 🎓 Como explicar para o professor
 “A API usa MobileNetV2, uma rede neural convolucional treinada no ImageNet, como extratora de características profundas das imagens. As assinaturas são comparadas por similaridade cosseno dos embeddings (vetores gerados pela rede). Como se trata de um modelo de deep learning, ele representa padrões visuais complexos da imagem, sendo uma aplicação legítima de inteligência artificial.”
-
-Se quiser, posso também te ajudar a:
-
-Montar um notebook de teste
-
-Ajustar o threshold ideal com exemplos reais
-
-Gerar um relatório acadêmico com explicação técnica da IA usada
-
-Quer que eu prepare algum desses próximos passos?
