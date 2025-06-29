@@ -40,7 +40,7 @@ def compare_signatures(images: ImagePair):
     emb2 = get_embedding(img2)
 
     similarity = cosine_similarity([emb1], [emb2])[0][0]
-    threshold = 0.80  # Pode ser calibrado com testes reais
+    threshold = 0.79  # Pode ser calibrado com testes reais
 
     return {
         "similarity": float(similarity),
